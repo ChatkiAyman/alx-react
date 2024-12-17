@@ -1,0 +1,2 @@
+{type: 'SELECT_COURSE'}
+{type: 'UNSELECT_COURSE'}
